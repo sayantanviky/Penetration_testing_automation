@@ -14,9 +14,13 @@ Tools used:- IntelliJ, Java, Maven, TestNG
 dependencies:-
 
 TestNG-https://mvnrepository.com/artifact/org.testng/testng/6.11
+
 Selenium-https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.7.2
+
 zapClient- https://mvnrepository.com/artifact/org.zaproxy/zap-clientapi/1.11.0
+
 WebDriverManager - https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager/5.3.1
+
 Demo Steps:
 Step 1:- download the owasp zap zip file from-https://github.com/zaproxy/zaproxy/releases/download/v2.11.1/ZAP_2.11.1_Crossplatform.zip & extract the content.
 
