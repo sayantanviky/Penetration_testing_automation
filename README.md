@@ -1,5 +1,5 @@
 # Penetration_testing_automation
-This is a penetration testing using OSWAP ZAP
+This is a penetration testing using OWASAP ZAP
 In this read me file I will mention what details I'm using for this project:
 OWASP ZAP automation using java, selenium, zapClient, TestNG and Maven
 
@@ -63,3 +63,9 @@ Running an active scan and waiting till the scan is completed.
 Running both passive and Active scan & creating separate reports for both.
 Setting up postman for zap client end points.
 Using Restassured as another approach for interacting with zapClient api.
+
+## Author
+- Name: Sayantan Mukherjee
+- GitHub: https://github.com/sayantanviky
+- LinkedIn: https://www.linkedin.com/in/sayantan-mukherjee-9975b3b7
+- YouTube: @sayantanmukherjee8294
